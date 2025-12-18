@@ -39,7 +39,7 @@ The main business objectives of this project are to:
   - **Top 5 best-selling pizzas**
   - **Bottom 5 least-selling pizzas**
 
-These findings support pricing strategy, promotion planning, staffing, and inventory management. :contentReference[oaicite:1]{index=1}
+These findings support pricing strategy, promotion planning, staffing, and inventory management. 
 
 ---
 
@@ -47,7 +47,7 @@ These findings support pricing strategy, promotion planning, staffing, and inven
 
 **Primary dataset:** `pizza_sales.csv`  
 
-Key fields include: :contentReference[oaicite:2]{index=2}
+Key fields include: 
 
 - `order_id` → Unique identifier for each order  
 - `pizza_id` → Unique identifier for each pizza  
@@ -64,7 +64,7 @@ Additional Excel versions of the dataset may be used for exploration and quick c
 
 ## 📌 Key Performance Indicators (KPIs)
 
-The analysis computes the following KPIs: :contentReference[oaicite:3]{index=3}
+The analysis computes the following KPIs:
 
 - **Total Revenue** = Σ `total_price`  
 - **Total Pizzas Sold** = Σ `quantity`  
@@ -132,9 +132,7 @@ Typical files included in this repository:
 - `pizza_sales_analysis.ipynb` — Main Jupyter Notebook with full analysis  
 - `pizza_sales.csv` — Core dataset  
 - `pizza_sales.xlsx` — Optional Excel version of the dataset  
-- `Pizza_Sales_BRD.docx` or `Pizza_Sales_BRD.pdf` — Business Requirements Document  
-
-(Use your actual filenames in the repo as needed.)
+- `python_BRD_Report.docx` — Business Requirements Document  
 
 ---
 
@@ -146,7 +144,7 @@ From this project, I practiced:
 - Writing **Python code** to calculate KPIs and trends  
 - Using **visualizations** to communicate insights clearly  
 - Connecting business questions to data-driven answers  
-- Framing **actionable recommendations** for management based on data :contentReference[oaicite:6]{index=6}  
+- Framing **actionable recommendations** for management based on data 
 
 ---
 
